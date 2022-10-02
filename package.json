@@ -1,0 +1,23 @@
+{
+  "name": "neo-bank",
+  "version": "1.0.0",
+  "description": "A digital bank which aims to provide the services and functions to customers effortlessly",
+  "main": "neobank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abv9359/Neo-Bank.git"
+  },
+  "keywords": [
+    "Neo",
+    "Bank"
+  ],
+  "author": "Abhinav Kusum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abv9359/Neo-Bank/issues"
+  },
+  "homepage": "https://github.com/abv9359/Neo-Bank#readme"
+}
