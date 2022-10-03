@@ -1,0 +1,7 @@
+Day by day, youngsters are more active digitally and more comfortable in using the online platforms. The intention is to digitalize the banks as well.
+The physical bank requires more time in making the services available to the constumers. These tasks include depositing money, updating passbooks, opening Accounts.
+Traditionally these tasks involve physical presence at the branch of the bank and meeting the managers, which consumes lot of time while standing in queue, travelling, waiting
+for the turn of your application. Banks would be saving lot of resouces in builiding, running and maintaing the physical bank. This would include infrastructure cost, 
+operational costs and other variable expenses. Banks can therefore provide higher rate of deposit interests and returns. Machine Learning could also provide some useful insights and 
+valuable personalized experience to customers which were not available in traditional banking system. 
+Neo Bank are top ideal choice for small and medium enterprises(SMEs).

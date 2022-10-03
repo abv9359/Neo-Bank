@@ -1,0 +1,7 @@
+The scope of Neo Bank could be increased as much as possible as it aims to be a highly scalable project. Integration with other digital platforms like amazon pay, whatsapp,
+and other platforms can make a common man to use the banking features effortlessly. Some out of scope areas are
+- Lack of awareness among people in using electronic gadgets.
+- Lack of trust which results into feara among people who prefer face to face transactions.
+- Some additional features which physical bank offers but couldn't be provided by Neo-Bank such as cash deposit and Loan as it requires additional form-fillup and documents.
+- Recognition from Central Bank(like RBI) is required to be more effective.
+- Neo Banks don't have their licenses and are interdependent on partner collaborations.
